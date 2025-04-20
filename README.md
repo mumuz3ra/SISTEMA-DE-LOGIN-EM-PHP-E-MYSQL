@@ -1,4 +1,4 @@
-##  SISTEMA DE LOGIN E CADASTRO EM PHP E MYSQL
+##  SISTEMA DE LOGIN EM PHP E MYSQL
 Este é um projeto simples e funcional de "login" e "cadastro", desenvolvido com "PHP" e "MySQL".
 
 ##  FUNCIONALIDADES
@@ -17,9 +17,12 @@ Este é um projeto simples e funcional de "login" e "cadastro", desenvolvido com
 - HTML5 + CSS3 (estrutura e estilo básico)
 - API TRANSLATION (para tradução das páginas)
 
-                                          _____
-                                         |____ |
- _ __ ___   _   _  _ __ ___   _   _  ____    / / _ __   __ _
-| '_ ` _ \ | | | || '_ ` _ \ | | | ||_  /    \ \| '__| / _` |
-| | | | | || |_| || | | | | || |_| | / / .___/ /| |   | (_| |
-|_| |_| |_| \__,_||_| |_| |_| \__,_|/___|\____/ |_|    \__,_|
+##
+
+![01](https://github.com/user-attachments/assets/2162f243-69a7-4c67-b86e-ee983ebf017e)
+
+![02](https://github.com/user-attachments/assets/f6cf5e8f-6b89-43f7-94ac-422e3d066151)
+
+![03](https://github.com/user-attachments/assets/3cde377d-5809-4d81-9443-a5a0e6c66286)
+
+![04](https://github.com/user-attachments/assets/d7cfc170-acc4-4b1d-b1bd-6aefcce80c82)
