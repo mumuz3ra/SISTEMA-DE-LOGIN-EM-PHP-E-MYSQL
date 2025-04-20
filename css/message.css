@@ -1,0 +1,30 @@
+/* MESSAGE */
+.sucesso{
+    background-color: #2bc472;
+    color: #fff;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
+.sucessoput{
+    color: #2bc472;
+    text-align: center;
+}
+.erro-geral{
+    background-color: #c82a2a;
+    color: #ffffffbb;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
+.erro{
+    color: #ff0000;
+    text-align: center;
+}
+.erro-input{
+    border: 1px solid #c82a2a;
+    width: 100%;
+}
+/* MESSAGE */

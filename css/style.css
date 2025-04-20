@@ -1,0 +1,122 @@
+@font-face { font-family: Hacked; src: url(../font/Hacked.ttf);}
+@font-face { font-family: Poppins; src: url(../font/Poppins.ttf);}
+
+/* GERAL */
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #0A090B;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+	font-family: "Poppins", sans-serif;
+}
+h1{
+    color: #fff;
+    font-family: 'Hacked', sans-serif;
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    font-weight: 900;
+}
+p{
+    color: #ffffff80;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #25A56A;
+}
+a:hover{
+    text-decoration: underline;
+}
+.underline{
+    text-decoration: underline;
+}
+/* GERAL */
+
+/* LOGO */
+.logo{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo:hover{
+    text-decoration: none;
+}
+.image_logo{
+    width: 40px;
+    height: 40px;
+    margin: 0px 0px -10px -10px;
+}
+.linha{
+    background-color: #25A56A;
+    width: 110px;
+    height: 2px;
+}
+/* LOGO */
+
+/* FORM */
+form{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 370px;
+    padding: 40px 20px 20px;
+    border-radius: 2px;
+}
+input{
+    width: 100%;
+    height: 64px;
+    border-radius: 2px;
+    border: none;
+    background-color: #181819;
+    color: #9d9d9d;
+    margin-bottom: 24px;
+    font-size: 16px;
+    padding: 0px 0px 0px 20px;   
+}
+.input-btn{
+    width: 100%;
+    margin: 20px 0px 20px 0px;
+    cursor: pointer;
+    background: #181819;
+    box-shadow: 0 0 20px 0 #25a5691c;
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Arial';
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    transition: 0.5s ease;
+}
+.input-btn:hover{
+    background: #25A56A;
+}
+input[type='checkbox']{
+    display: inline-block;
+    height: 20px;
+    width: 5%;
+    vertical-align: sub;
+}
+.input-group{
+    width: 90%;
+}
+label{
+    display: inline-block;
+    width: 90%;
+    font-size: 11px;
+    margin-top: 15px;
+    cursor: pointer;
+    word-wrap: break-word;
+    color: #ffffff80;
+}
+/* FORM */
