@@ -1,4 +1,5 @@
 ##  SISTEMA DE LOGIN EM PHP E MYSQL
+
 Este é um projeto simples e funcional de "login" e "cadastro", desenvolvido com "PHP" e "MySQL".
 
 ##  FUNCIONALIDADES
@@ -16,6 +17,10 @@ Este é um projeto simples e funcional de "login" e "cadastro", desenvolvido com
 - MySQL (banco de dados relacional)
 - HTML5 + CSS3 (estrutura e estilo básico)
 - API TRANSLATION (para tradução das páginas)
+
+##  XAMPP LAMP / DB IMPORTAR
+
+Ao enviar a pasta para o XAMPP ou LAMP, renomeie-a para "_login" depois é só importar o banco de dados e o sistema já estará funcionando.
 
 ## FOTOS DO SISTEMA
 
