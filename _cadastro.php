@@ -96,7 +96,7 @@
     <script src="https://cdn.gtranslate.net/widgets/latest/flags.js" defer></script>
     <!-- API LANG -->
 
-    <title>Nerkodex - Cadastro</title>
+    <title>mumuz3ra - Cadastro</title>
 </head>
 <body> 
 
