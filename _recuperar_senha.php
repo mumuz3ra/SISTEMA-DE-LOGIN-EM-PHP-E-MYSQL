@@ -25,7 +25,7 @@ $mail = new PHPMailer(true);
     <script src="https://cdn.gtranslate.net/widgets/latest/flags.js" defer></script>
     <!-- API LANG -->
 
-    <title>Nerkodex - Recuperar Senha</title>
+    <title>mumuz3ra - Recuperar Senha</title>
 </head>
 <body>
 
