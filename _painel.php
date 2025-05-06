@@ -23,7 +23,7 @@
     <script src="https://cdn.gtranslate.net/widgets/latest/flags.js" defer></script>
     <!-- API LANG -->
 
-    <title>Nerkodex - Painel</title>
+    <title>mumuz3ra - Painel</title>
 </head>
 <body> 
 
