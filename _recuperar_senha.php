@@ -76,7 +76,7 @@ $mail = new PHPMailer(true);
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                     $mail->Port       = 2525;
 
-                    $mail->setFrom('movie_flix@atendimento.com', 'Atendimento');
+                    $mail->setFrom('nerkodex@atendimento.com', 'Atendimento');
                     $mail->addAddress($row_email['email'], $row_email['nome']);
 
                     $mail->isHTML(true);                                  //Set email format to HTML
